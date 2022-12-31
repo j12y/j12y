@@ -1,44 +1,39 @@
 
 
-<div id="writing">
+<div id="writing" align="center">
   <a href="https://medium.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+    &nbsp; &nbsp; &nbsp; 
   <a href="https://dev.to/@j12y" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+    &nbsp; &nbsp; &nbsp; 
   <a href="https://dolby.io/blog/author/jdela/" target="_blank"><img src="https://img.shields.io/badge/Dolby.io-0A0A0A?style=for-the-badge&logo=dolby&logoColor=white"/></a>
 </div>
 
-<div id="social">
-  <a href="https://www.linkedin.com/in/jaysondelancey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="@jaysondelancey on LinkedIn"/></a>  
+<div id="social" align="center">
+  <a href="https://www.linkedin.com/in/jaysondelancey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="@jaysondelancey on LinkedIn"/></a>
+  &nbsp; &nbsp; &nbsp; 
   <a href="https://youtube.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="@j12y on YouTube"/></a>
+  &nbsp; &nbsp; &nbsp; 
   <a href="https://twitter.com/jaysondelancey" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="@jaysondelancey on Twitter"/></a>
+  &nbsp; &nbsp; &nbsp; 
   <a href="https://meta.stackoverflow.com/users/2233231/j12y" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white" alt="@j12y on StackOverflow"/></a>
 </div>
 
 <div>&nbsp;</div>
 
-<details>
+<!--
+<details align="center">
   <summary>Professional History</summary>
+  <div>&nbsp;</div>
 
-## Dolby
-
-<!--<img src="https://files.readme.io/8e12a10-4f1f90a-dolbyIO-logo-white.svg" width="100"/>-->
-  
-## HERE Technologies
-  
-## General Electric
-  
-## Rackspace
-  
-## PDI / DreamWorks Animation
-  
-## MathWorks
-  
-## Carnegie Mellon
+  Dolby | HERE | GE | Rackspace | PDI / DreamWorks Animation | MathWorks | Carnegie Mellon
   
 </details>
+-->
 
-
-<details>
+<details align="center">
   <summary>Technical Skills</summary>
+  <div>&nbsp;</div>
+
   <div id="stack">
   <a href="https://github.com/j12y?tab=repositories&q=&type=&language=javascript&sort=" target="_blank">
      <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />
@@ -49,7 +44,9 @@
   </div>
 </details>
 
-<details>
-  <summary>Statistics</summary>
+<details align="center">
+  <summary align="center">Statistics</summary>
+    <div>&nbsp;</div>
+    
 <img alt="Last commit" src="https://img.shields.io/github/last-commit/j12y/j12y?label=Last%20updated:&style=social&color=black&labelColor=black">
 </details>
