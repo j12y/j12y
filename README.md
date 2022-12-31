@@ -7,10 +7,10 @@
 </div>
 
 <div id="social">
-  <a href="https://www.linkedin.com/in/jaysondelancey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="@jaysondelancey on LinkedIn"/></a>
-  <a href="https://youtube.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="@j12y on YouTube"/></a>
-  <a href="https://twitter.com/jaysondelancey" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="@jaysondelancey on Twitter"/></a>
-  <a href="https://meta.stackoverflow.com/users/2233231/j12y" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="@j12y on StackOverflow"/></a>
+  <a href="https://www.linkedin.com/in/jaysondelancey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="@jaysondelancey on LinkedIn"/></a>  
+  <a href="https://youtube.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="@j12y on YouTube"/></a>
+  <a href="https://twitter.com/jaysondelancey" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="@jaysondelancey on Twitter"/></a>
+  <a href="https://meta.stackoverflow.com/users/2233231/j12y" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white" alt="@j12y on StackOverflow"/></a>
 </div>
 
 <div>&nbsp;</div>
@@ -50,19 +50,3 @@
 </details>
 
 
-
-
-<!--
-**j12y/j12y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
