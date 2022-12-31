@@ -49,4 +49,7 @@
   </div>
 </details>
 
-
+<details>
+  <summary>Statistics</summary>
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/j12y/j12y?label=Last%20updated:&style=social&color=black&labelColor=black">
+</details>
