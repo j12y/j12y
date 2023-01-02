@@ -1,0 +1,27 @@
+{
+  "name": "j12y-readme",
+  "version": "1.0.0",
+  "description": "Generate a dynamic README",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsx",
+    "start": "ts-node ./src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j12y/j12y.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j12y/j12y/issues"
+  },
+  "homepage": "https://github.com/j12y/j12y#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "liquidjs": "^10.3.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
