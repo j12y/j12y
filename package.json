@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/j12y/j12y#readme",
   "devDependencies": {
+    "@octokit/graphql": "^5.0.5",
     "@types/node": "^18.11.18",
     "dotenv": "^16.0.3",
     "liquidjs": "^10.3.3",
