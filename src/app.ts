@@ -1,9 +1,9 @@
 
 import dotenv from 'dotenv';
 
+import path from 'path';
 import { Liquid } from 'liquidjs'
 import { writeFileSync } from 'fs';
-import path from 'path';
 
 import { GitHub } from "./gh";
 
@@ -11,36 +11,32 @@ import { GitHub } from "./gh";
 export async function main() {
   dotenv.config();
 
-  // Populate dynamic data
+  // Store dynamic data for templates
+  let scope = {
+    generated: new Date().toDateString(),
+    followers: 0,
+    public_repos: 0,
+    uniques: 0
+  }
+
+  // Get dynamic data from GitHub
+  const gh = new GitHub();
   const user: string = process.env.USERNAME || '';
   const repo: string = process.env.REPO || '';
 
-  let gh = new GitHub();
-  // let user_details = await gh.getUserDetails(user);
 
-  const scope = {
-    generated: new Date().toDateString(),
-  //  followers: user_details.followers,
-  //  public_repos: user_details.public_repos
-  }
+  const repos = await gh.getReposOverview('j12y');
+  // console.log(JSON.stringify(repos, null, 2));
+  const profile = await gh.getProfileOverview('j12y');
 
+  // Gather general numbers from REST API
+  scope['followers'] = profile.user.followers.totalCount;
+  scope['public_repos'] = repos.user.repositories.totalCount;
 
-  let result = await gh.getReposDates();
-  console.log(result);
-  return;
+  // let metrics = await gh.getReposMetrics(user, repo);
+  // scope['uniques'] = metrics.uniques;
 
-  // let repos_info = await gh.getReposInfo(user, repo);
-  // console.log(repos_info.created_at);
-  // console.log(repos_info.updated_at);
-
-  // getReposMetrics();
-  // getReposReferrers();
-  // getReposTags();
-  // getReposTopics();
-  // getUserFollowers();
-
-
-  // Identify template location for engine
+  // Using liquid template engine to render files found in template dir
   // Learn more: https://liquidjs.com/
   const engine = new Liquid({
     root: path.resolve(__dirname, 'template/'),
@@ -52,9 +48,6 @@ export async function main() {
       writeFileSync(path.join(__dirname, '../README.md'), content, {
           flag: 'w'});
   });
-
-
 }
-
 
 main();

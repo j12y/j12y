@@ -1,4 +1,3 @@
-
 <div id="writing" align="center">
   <a href="https://medium.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a>
     &nbsp; &nbsp; &nbsp;
@@ -37,16 +36,13 @@
 
 <details align="center">
   <summary align="center">Statistics</summary>
-    <div>&nbsp;</div>
-    <div>
-    <p>Followers: </p>
-    <p>Repos: </p>
-    </div>
-
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/j12y/j12y?label=Last%20updated:&style=social&color=black&labelColor=black">
+  <div>&nbsp;</div>
+  <div>
+    <p>Followers: 60</p>
+    <p>Repos: 70</p>
+  </div>
 </details>
 
 
 
-*Last Updated: Sun Feb 12 2023*
-
+*Last Updated: Sat Feb 25 2023*
