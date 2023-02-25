@@ -1,0 +1,4 @@
+# Rename to .env and include vars
+GITHUB_TOKEN=PASTE-HERE
+USERNAME=j12y
+REPO=j12y
