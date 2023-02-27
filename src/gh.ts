@@ -20,7 +20,7 @@ export class GitHub {
         const query = `
             query getReposOverview($name: String!) {
                 user(login: $name) {
-                    repositories(first: 100) {
+                    repositories(first: 100 ownerAffiliations: OWNER) {
                         totalCount
                         edges {
                             node {
@@ -127,13 +127,12 @@ export class GitHub {
     // GET /repos/{owner}/{repo}/traffic/views
     // https://docs.github.com/en/rest/metrics/traffic?apiVersion=2022-11-28#get-page-views
     async getReposMetrics(user: string, repo: string): Promise<RestEndpointMethodTypes['repos']['getViews']['response']['data']> {
+        // Get data by week instead of default day
         const { data } = await octokit.rest.repos.getViews({
             owner: user,
             repo: repo,
+            per: 'week'
         });
-
-        // Can use per parameter to see by week instead of the default day
-        //    per: 'week'
 
         return data;
     }
