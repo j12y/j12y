@@ -1,18 +1,24 @@
-{% include 'writing' %}
-
 {% include 'contact' %}
+
+{% include 'writing' %}
 
 {% include 'stack' %}
 
+# Fans
+{% include 'influence' %}
 
 <div>&nbsp;</div>
 
-<details align="center">
-  <summary align="center">Statistics</summary>
+# Statistics
+<details>
+  <summary>Statistics</summary>
   <div>&nbsp;</div>
   <div>
-    <p>Followers: {{ followers }}</p>
     <p>Repos: {{ public_repos }}</p>
+    <p>Followers: {{ follower_count }}</p>
+    <p>Stargazers: {{ stargazer_count }}</p>
+    <p>Fans: {{ fan_count }}</p>
+    <p>Unique Views (week): {{ profile_traffic }}</p>
   </div>
 </details>
 

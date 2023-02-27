@@ -1,0 +1,18 @@
+<div id="influence">
+  <p>
+    Thanks to all of you interested in my projects. 
+    Follow me or star this repos to add yourself to the list.
+  </p>
+
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/j12y?label=Follow&style=social">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/j12y/j12y?label=Star&style=social">
+
+<details>
+  <summary>Fans ({{ fan_count }})</summary>
+  <div>&nbsp;</div>
+  <div id="fans">
+{% for fan in fans %}<a href="https://github.com/{{ fan }}">{{ fan }}</a> {% endfor %}
+  </div>
+</details>
+
+  </div>
