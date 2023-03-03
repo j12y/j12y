@@ -37,6 +37,9 @@ export class GitHub {
                                         }
                                     }
                                 }
+                                primaryLanguage {
+                                    name
+                                }
                                 stargazerCount
                                 stargazers(first: 100) {
                                     totalCount

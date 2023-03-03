@@ -8,15 +8,17 @@ import { writeFileSync } from 'fs';
 import { GitHub } from "./gh";
 
 
-
 export async function main() {
   dotenv.config();
 
   // Store dynamic data for templates
   let scope = {
     generated: new Date().toDateString(),
-    fan_count: 0,
-    fans: new Array<String>,
+    supporter_count: 0,
+    supporters: new Array<String>,
+    gallery: new Array<String>,
+    topics: new Array<[String, Number]>,
+    languages: new Array<[String, Number]>,
     follower_count: 0,
     stargazer_count: 0,
     public_repos: 0,
@@ -31,28 +33,57 @@ export async function main() {
   const profile = await gh.getProfileOverview(user);
   // console.log(JSON.stringify(repos, null, 2));
 
-  // Gather influence metrics
-  var fans: {[id: string]: number } = {};
+  // Gather influence metrics and unique topics
+  var supporters: {[id: string]: number } = {};
+  var topics: {[id: string]: number } = {};
+  var languages: {[id: string]: number } = {};
+  var gallery: {[id: string]: any } = {};
 
-  // Any stargazers of owned repositories count as a fan.
   for (let repo of repos.user.repositories.edges) {
+    // Count occurrences for each stargazer
     repo.node.stargazers.edges.forEach((stargazer: any) => {
-      fans[stargazer.node.login] = stargazer.node.login in fans ? fans[stargazer.node.login] + 1 : 1;
+      supporters[stargazer.node.login] = stargazer.node.login in supporters ? supporters[stargazer.node.login] + 1 : 1;
     });
-  }
-  scope['stargazer_count'] = Object.keys(fans).length;
 
-  // Add followers as fans, which could include people who are also
+    // Count occurrences of each topic
+    repo.node.repositoryTopics.edges.forEach((topic: any) => {
+      if (topic.node.topic.name == 'github-gallery') {
+        gallery[repo.node.name] = repo;
+      } else {
+        topics[topic.node.topic.name] = topic.node.topic.name in topics ? topics[topic.node.topic.name] + 1 : 1;
+      }
+    });
+
+    // Count and include count of language used
+    if (repo.node.primaryLanguage) {
+      languages[repo.node.primaryLanguage.name] = repo.node.primaryLanguage.name in languages ? languages[repo.node.primaryLanguage.name] + 1 : 1;
+    }
+  }
+
+  // Add followers as supporters, which could include people who are also
   // stargazers, so will gather in same dictionary to find unique set
   for (let follower of profile.user.followers.edges) {
-    fans[follower.node.login] = follower.node.login in fans ? fans[follower.node.login] + 1 : 1;
+    supporters[follower.node.login] = follower.node.login in supporters ? supporters[follower.node.login] + 1 : 1;
   }
+
   scope['follower_count'] = profile.user.followers.totalCount;
+  scope['stargazer_count'] = Object.keys(supporters).length;
+  scope['supporters'] = Object.keys(supporters);
+  scope['supporter_count'] = Object.keys(supporters).length;
 
-  scope['fans'] = Object.keys(fans);
-  scope['fan_count'] = Object.keys(fans).length;
+  // Share topics sorted by frequency of use for filtering repositories
+  // from the organization
+  scope['topics'] = Object.entries(topics).sort(function (first, second) {
+    return second[1] - first[1];
+  });
+  scope['languages'] = Object.entries(languages).sort(function (first, second) {
+    return second[1] - first[1];
+  });
 
-  // TODO: Build repository gallery
+
+  // Gather topics across repos
+  scope['gallery'] = Object.values(gallery);
+
   scope['public_repos'] = repos.user.repositories.totalCount;
 
   const repo: string = process.env.REPO || '';
