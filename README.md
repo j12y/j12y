@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="./assets/delancey-github-banner.png"/>
+</div>
+
 <div id="social" align="center">
   <a href="https://www.linkedin.com/in/jaysondelancey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="@jaysondelancey on LinkedIn"/></a>
   &nbsp; &nbsp; &nbsp;
@@ -10,12 +14,12 @@
 </div>
 
 
-# Projects
+# Gallery
 <div id="gallery">
 
-<p>Explore: <br/>
+<p>Explore some of my projects: <br/>
 <a href="https://github.com/j12y?tab=repositories&q=language%3APython&type=&language=&sort="><img src="https://img.shields.io/badge/Python-16-lightgrey?logo=Python&label=Python&labelColor=000000" alt="Python"/></a> <a href="https://github.com/j12y?tab=repositories&q=language%3AJavaScript&type=&language=&sort="><img src="https://img.shields.io/badge/JavaScript-12-lightgrey?logo=JavaScript&label=JavaScript&labelColor=000000" alt="JavaScript"/></a> <a href="https://github.com/j12y?tab=repositories&q=language%3AHTML&type=&language=&sort="><img src="https://img.shields.io/badge/HTML-6-lightgrey?logo=HTML&label=HTML&labelColor=000000" alt="HTML"/></a> <a href="https://github.com/j12y?tab=repositories&q=language%3AVim Script&type=&language=&sort="><img src="https://img.shields.io/badge/Vim Script-1-lightgrey?logo=Vim Script&label=Vim Script&labelColor=000000" alt="Vim Script"/></a> <a href="https://github.com/j12y?tab=repositories&q=language%3ACSS&type=&language=&sort="><img src="https://img.shields.io/badge/CSS-1-lightgrey?logo=CSS&label=CSS&labelColor=000000" alt="CSS"/></a> <a href="https://github.com/j12y?tab=repositories&q=language%3ADart&type=&language=&sort="><img src="https://img.shields.io/badge/Dart-1-lightgrey?logo=Dart&label=Dart&labelColor=000000" alt="Dart"/></a> <a href="https://github.com/j12y?tab=repositories&q=language%3AJupyter Notebook&type=&language=&sort="><img src="https://img.shields.io/badge/Jupyter Notebook-1-lightgrey?logo=Jupyter Notebook&label=Jupyter Notebook&labelColor=000000" alt="Jupyter Notebook"/></a> <a href="https://github.com/j12y?tab=repositories&q=language%3AKotlin&type=&language=&sort="><img src="https://img.shields.io/badge/Kotlin-1-lightgrey?logo=Kotlin&label=Kotlin&labelColor=000000" alt="Kotlin"/></a> <a href="https://github.com/j12y?tab=repositories&q=language%3ATypeScript&type=&language=&sort="><img src="https://img.shields.io/badge/TypeScript-1-lightgrey?logo=TypeScript&label=TypeScript&labelColor=000000" alt="TypeScript"/></a> 
-<a href="https://github.com/j12y?tab=repositories&q=topic%3Aheremaps&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=heremaps&message=9&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Apredix&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=predix&message=4&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Acom-ge&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=com-ge&message=4&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Ablog&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=blog&message=4&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Acom-here&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=com-here&message=4&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Adolbyio&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=dolbyio&message=4&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Atalks&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=talks&message=2&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Aflask&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=flask&message=2&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Areact&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=react&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Ahackathon&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=hackathon&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Acodeproject&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=codeproject&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Atypescript&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=typescript&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-graphql&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=github-graphql&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-profile-readme&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=github-profile-readme&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-rest-api&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=github-rest-api&message=1&labelColor=blue"/></a> 
+<a href="https://github.com/j12y?tab=repositories&q=topic%3Aheremaps&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=heremaps&message=9&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Apredix&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=predix&message=4&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Acom-ge&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=com-ge&message=4&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Ablog&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=blog&message=4&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Acom-here&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=com-here&message=4&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Adolbyio&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=dolbyio&message=4&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Aflask&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=flask&message=3&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Atalks&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=talks&message=2&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Aanalytics&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=analytics&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Areact&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=react&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Ahackathon&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=hackathon&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Agis&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=gis&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Aiot&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=iot&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Amaps&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=maps&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Acodeproject&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=codeproject&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Anlp&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=nlp&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Anltk&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=nltk&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Atypescript&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=typescript&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-graphql&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=github-graphql&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-profile-readme&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=github-profile-readme&message=1&labelColor=blue"/></a> <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-rest-api&type=&language=&sort="><img src="https://img.shields.io/static/v1?label=github-rest-api&message=1&labelColor=blue"/></a> 
 </p>
 
 <div align="center">
@@ -25,37 +29,29 @@
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
 <a href="https://github.com/j12y/predix-volcano-app"><img src="https://repository-images.githubusercontent.com/98841685/16b86d08-cbf3-4f1f-ba8e-c68ae4dc95b9"/></a>
 <p><b><a href="https://github.com/j12y/predix-volcano-app">predix-volcano-app</b></a></p>
-<p>Volcano Reference Application using Flask, PredixPy, TimeSeries, Asset, UAA, and PredixUI<br/>
- <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-gallery&type=&language=&sort="><img src="https://img.shields.io/badge/github--gallery-blue?style=pill"/></a> 
-</p>
-</td>
-
-<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/j12y/react-address-validation"><img src="https://opengraph.githubassets.com/0034b45dcd9bc6a3f2c6410226405c1e45ff0c3bc158e4a7e9d92d84bc4645a1/j12y/react-address-validation"/></a>
-<p><b><a href="https://github.com/j12y/react-address-validation">react-address-validation</b></a></p>
-<p>Address Validation Demo using HERE's Geocoder<br/>
- <a href="https://github.com/j12y?tab=repositories&q=topic%3Ablog&type=&language=&sort="><img src="https://img.shields.io/badge/blog-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Aheremaps&type=&language=&sort="><img src="https://img.shields.io/badge/heremaps-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Areact&type=&language=&sort="><img src="https://img.shields.io/badge/react-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-gallery&type=&language=&sort="><img src="https://img.shields.io/badge/github--gallery-blue?style=pill"/></a> 
+<p>Reference Application for data analysis of Masaya Volcano data using Flask, PredixPy, TimeSeries, Asset, UAA, and PredixUI<br/>
+ <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-gallery&type=&language=&sort="><img src="https://img.shields.io/badge/github--gallery-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Aanalytics&type=&language=&sort="><img src="https://img.shields.io/badge/analytics-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Aflask&type=&language=&sort="><img src="https://img.shields.io/badge/flask-blue?style=pill"/></a> 
 </p>
 </td>
 
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
 <a href="https://github.com/j12y/san-diego-streetlights"><img src="https://repository-images.githubusercontent.com/181129372/68095885-e5bc-499f-a2f9-18272e8e4cc9"/></a>
 <p><b><a href="https://github.com/j12y/san-diego-streetlights">san-diego-streetlights</b></a></p>
-<p>Smart City Street Light Visualization - Current by GE CityIQ in San Diego, CA<br/>
- <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-gallery&type=&language=&sort="><img src="https://img.shields.io/badge/github--gallery-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Acom-ge&type=&language=&sort="><img src="https://img.shields.io/badge/com--ge-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Acom-here&type=&language=&sort="><img src="https://img.shields.io/badge/com--here-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Aheremaps&type=&language=&sort="><img src="https://img.shields.io/badge/heremaps-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Apredix&type=&language=&sort="><img src="https://img.shields.io/badge/predix-blue?style=pill"/></a> 
+<p>Smart City Street Light Visualization of San Diego, CA<br/>
+ <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-gallery&type=&language=&sort="><img src="https://img.shields.io/badge/github--gallery-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Acom-ge&type=&language=&sort="><img src="https://img.shields.io/badge/com--ge-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Acom-here&type=&language=&sort="><img src="https://img.shields.io/badge/com--here-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Aheremaps&type=&language=&sort="><img src="https://img.shields.io/badge/heremaps-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Apredix&type=&language=&sort="><img src="https://img.shields.io/badge/predix-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Agis&type=&language=&sort="><img src="https://img.shields.io/badge/gis-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Aiot&type=&language=&sort="><img src="https://img.shields.io/badge/iot-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Amaps&type=&language=&sort="><img src="https://img.shields.io/badge/maps-blue?style=pill"/></a> 
 </p>
 </td>
-
-</tr>
-<tr>
 
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
 <a href="https://github.com/j12y/sentiment-analysis-reddit"><img src="https://repository-images.githubusercontent.com/267629375/d55534ec-1ec7-4efa-a648-723a55107834"/></a>
 <p><b><a href="https://github.com/j12y/sentiment-analysis-reddit">sentiment-analysis-reddit</b></a></p>
 <p>Project to do a sentiment analysis of Reddit stories and comments in a technical community<br/>
- <a href="https://github.com/j12y?tab=repositories&q=topic%3Ablog&type=&language=&sort="><img src="https://img.shields.io/badge/blog-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Acodeproject&type=&language=&sort="><img src="https://img.shields.io/badge/codeproject-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-gallery&type=&language=&sort="><img src="https://img.shields.io/badge/github--gallery-blue?style=pill"/></a> 
+ <a href="https://github.com/j12y?tab=repositories&q=topic%3Ablog&type=&language=&sort="><img src="https://img.shields.io/badge/blog-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Acodeproject&type=&language=&sort="><img src="https://img.shields.io/badge/codeproject-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-gallery&type=&language=&sort="><img src="https://img.shields.io/badge/github--gallery-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Anlp&type=&language=&sort="><img src="https://img.shields.io/badge/nlp-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Anltk&type=&language=&sort="><img src="https://img.shields.io/badge/nltk-blue?style=pill"/></a> 
 </p>
 </td>
+
+</tr>
+<tr>
 
 </tr>
 </table>
@@ -66,21 +62,21 @@
 </div>
 
 # Learn
-<p>Find more of my most recent technical blog posts.</p>
+<p>Read some of my most recent technical blog posts on [Dev.to](https://dev.to/@j12y), [Medium](https://medium.com/@j12y), and [Dolby.io](https://dolby.io/blog/author/jdela/).</p>
 <div id="writing" align="center">
 <table width="75%">
 <tr>
-<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-  <div align="center"><a href="https://medium.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a></div>
-  <img src="https://miro.medium.com/v2/resize:fit:797/1*fnz0qTZRzgc39v7AK59kJg.png"/>
-  <p><b><a href="https://j12y.medium.com/a-location-based-todo-app-a6cf3ecc096a?source=rss-f3c028e6e549------2">A Location Based TODO App</a></b></p>
-  <p>I wanted to use React to build a TODO application that takes into account where I need to be to complete a task. I don’t “buy milk” while…...</p>
-</td>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://dev.to/@j12y" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a></div>
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--F6Ufej9V--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dolby.io/wp-content/uploads/2022/09/Dolby-Real-Time-Streaming-Best-in-Media-APIs-scaled.jpg"/>
   <p><b><a href="https://dev.to/dolbyio/dolbyio-real-time-streaming-wins-best-in-media-apis-award-30mm">Dolby.io Real-time Streaming Wins Best in Media APIs Award</a></b></p>
   <p>Dolby.io has been recognized for its Real-time Streaming solution offering sub-second latency for live online events as the Best in Media APIs categor...</p>
+</td>
+<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+  <div align="center"><a href="https://medium.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a></div>
+  <img src="https://miro.medium.com/v2/resize:fit:797/1*fnz0qTZRzgc39v7AK59kJg.png"/>
+  <p><b><a href="https://j12y.medium.com/a-location-based-todo-app-a6cf3ecc096a?source=rss-f3c028e6e549------2">A Location Based TODO App</a></b></p>
+  <p>I wanted to use React to build a TODO application that takes into account where I need to be to complete a task. I don’t “buy milk” while…...</p>
 </td>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://dolby.io/blog/author/jdela/" target="_blank"><img src="https://img.shields.io/badge/Dolby.io-0A0A0A?style=for-the-badge&logo=dolby&logoColor=white"/></a></div>
