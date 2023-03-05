@@ -3,13 +3,13 @@ import { Octokit } from 'octokit';
 import { RestEndpointMethodTypes } from '@octokit/plugin-rest-endpoint-methods';
 const { graphql } = require("@octokit/graphql");
 
-const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+const octokit = new Octokit({ auth: process.env.TOKEN});
 
 export class GitHub {
     // https://docs.github.com/en/graphql
     graphqlWithAuth = graphql.defaults({
         headers: {
-            authorization: `token ${process.env.GITHUB_TOKEN}`
+            authorization: `token ${process.env.TOKEN}`
         }
     });
 
