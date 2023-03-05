@@ -6,10 +6,12 @@ import { Liquid } from 'liquidjs'
 import { writeFileSync } from 'fs';
 
 import { GitHub } from "./gh";
+import { Feeds } from "./rss";
 
 
 export async function main() {
   dotenv.config();
+
 
   // Store dynamic data for templates
   let scope = {
@@ -19,6 +21,9 @@ export async function main() {
     gallery: new Array<String>,
     topics: new Array<[String, Number]>,
     languages: new Array<[String, Number]>,
+    medium_post: {},
+    devto_post: {},
+    dolbyio_post: {},
     follower_count: 0,
     stargazer_count: 0,
     public_repos: 0,
@@ -80,9 +85,23 @@ export async function main() {
     return second[1] - first[1];
   });
 
-
   // Gather topics across repos
   scope['gallery'] = Object.values(gallery);
+
+  // Get blog post feeds
+  const feeds = new Feeds();
+
+  let feed_url = `https://${process.env.MEDIUM_ID}.medium.com/feed`;
+  const medium = await feeds.getRecentArticles(feed_url);
+  scope['medium_post'] = medium[0];
+
+  feed_url = `https://dev.to/feed/${process.env.DEVTO_ID}`;
+  const devto = await feeds.getRecentArticles(feed_url);
+  scope['devto_post'] = devto[0];
+
+  feed_url = `https://dolby.io/blog/author/${process.env.DOLBYIO_ID}/feed/`;
+  const dolbyio = await feeds.getRecentArticles(feed_url);
+  scope['dolbyio_post'] = dolbyio[0];
 
   scope['public_repos'] = repos.user.repositories.totalCount;
 
