@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/delancey-github-banner.png"/>
+  <a href="https://github.com/j12y"><img src="./assets/delancey-github-banner.png"/></a>
 </div>
 
 <div id="social" align="center">
