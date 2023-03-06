@@ -8,16 +8,23 @@ jobs:
     runs-on: ubuntu-latest
     environment: buildenv
     steps:
-      - run: echo "Triggered by ${{ github.event_name }}"
-      - name: Checkout
+      - name: Trigger event
+        run: echo "Triggered by ${{ github.event_name }}"
+      - name: Checkout repo
         uses: actions/checkout@v3
       - name: Install dependencies
         run: |
           npm install
-      - name: Build
+      - name: Configure environment
+        run: |
+          echo "$ALL_VARS"
+        env:
+          ALL_VARS: ${{ vars }}
+      - name: Build source
         env:
           TOKEN: ${{ secrets.TOKEN }}
+          REPO: ${{ github.repository }}
+          USERNAME: ${{ github.repository_owner }}
         run: |-
           npm start
           cat README.md
-
