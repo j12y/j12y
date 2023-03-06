@@ -15,11 +15,6 @@ jobs:
       - name: Install dependencies
         run: |
           npm install
-      - name: Configure environment
-        run: |
-          echo "$ALL_VARS"
-        env:
-          ALL_VARS: ${{ toJSON(vars) }}
       - name: Build source
         env:
           TOKEN: ${{ secrets.TOKEN }}
@@ -31,3 +26,8 @@ jobs:
         run: |-
           npm start
           cat README.md
+      - name: Commit change
+        run: |-
+          git add README.md
+          git commit -m 'GitHub Action Update'
+          git push
