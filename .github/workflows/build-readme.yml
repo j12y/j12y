@@ -21,7 +21,7 @@ jobs:
       - name: Build source
         env:
           TOKEN: ${{ secrets.TOKEN }}
-          REPO: "j12y"
+          REPO: ${{ github.repository_owner }}
           USERNAME: ${{ github.repository_owner }}
           MEDIUM_ID: ${{ vars.MEDIUM_ID }}
           DEVTO_ID: ${{ vars.DEVTO_ID }}
