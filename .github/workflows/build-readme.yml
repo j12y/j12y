@@ -19,7 +19,7 @@ jobs:
         run: |
           echo "$ALL_VARS"
         env:
-          ALL_VARS: ${{ vars }}
+          ALL_VARS: ${{ toJSON(vars) }}
       - name: Build source
         env:
           TOKEN: ${{ secrets.TOKEN }}
