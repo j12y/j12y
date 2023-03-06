@@ -2,6 +2,9 @@ name: Update README.md
 
 on:
   workflow_dispatch:
+  push:
+  schedule:
+    - cron: '55 7 * * 1-5'        # Weekdays at 7:55
 
 jobs:
   build:
@@ -30,7 +33,7 @@ jobs:
           git diff
       - name: Commit change
         run: |-
-          git config user.name "GitHub Action: ${{ github.action }}"
+          git config user.name "GitHub Action: ${{ github.workflow }} #${{ github.run_attempt }}"
           git config user.email "<>"
           git add README.md
           git commit -m 'GitHub Action Update'
