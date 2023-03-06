@@ -23,11 +23,15 @@ jobs:
           MEDIUM_ID: ${{ vars.MEDIUM_ID }}
           DEVTO_ID: ${{ vars.DEVTO_ID }}
           DOLBYIO_ID: ${{ vars.DOLBYIO_ID }}
-        run: |-
+        run: |
           npm start
-          cat README.md
+      - name: Check changes
+        run: |-
+          git diff
       - name: Commit change
         run: |-
+          git config user.name "GitHub Action: ${{ github.action }}"
+          git config user.email "<>"
           git add README.md
           git commit -m 'GitHub Action Update'
           git push
