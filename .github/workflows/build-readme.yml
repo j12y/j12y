@@ -25,9 +25,9 @@ jobs:
           TOKEN: ${{ secrets.TOKEN }}
           REPO: "j12y"
           USERNAME: ${{ github.repository_owner }}
-          MEDIUM_ID: ${{ env.MEDIUM_ID }}
-          DEVTO_ID: ${{ env.DEVTO_ID }}
-          DOLBYIO_ID: ${{ env.DOLBYIO_ID }}
+          MEDIUM_ID: ${{ vars.MEDIUM_ID }}
+          DEVTO_ID: ${{ vars.DEVTO_ID }}
+          DOLBYIO_ID: ${{ vars.DOLBYIO_ID }}
         run: |-
           npm start
           cat README.md
