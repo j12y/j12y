@@ -31,16 +31,16 @@ jobs:
       - name: Check for changes
         run: |-
           if git diff --exit-code; then
-            echo "::set-env name=changes_exist::false"
+            echo "README_CHANGED=0" >> "$GITHUB_ENV"
           else
-            echo "::set-env name=changes_exist::true"
+            echo "README_CHANGED=1" >> "$GITHUB_ENV"
             git diff
           fi
       - name: Commit change
-        if: ${{ env.changes_exist }}
+        if: env.README_CHANGED != 0
         run: |-
           git config user.name "GitHub Action: ${{ github.workflow }} #${{ github.run_number }}"
           git config user.email "<>"
           git add README.md
-          git commit -m 'GitHub Action Update'
+          git commit -m 'GitHub Action: ${{ github.workflow }} #${{ github.run_number }}'
           git push
