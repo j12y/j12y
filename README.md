@@ -91,7 +91,7 @@
 # Community
 <div id="influence">
   <p>
-    Thanks to all of you interested in my projects. 
+    Thanks for your interest in my projects. 
     Follow me or star this repos to add yourself to the community.
   </p>
 
