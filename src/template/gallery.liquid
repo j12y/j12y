@@ -1,10 +1,5 @@
 <div id="gallery">
 
-<p>Explore some of my projects: <br/>
-{% for language in languages %}<a href="https://github.com/j12y?tab=repositories&q=language%3A{{language[0]}}&type=&language=&sort="><img src="https://img.shields.io/badge/{{ language[0] }}-{{ language[1] }}-lightgrey?logo={{ language[0] }}&label={{ language[0] }}&labelColor=000000" alt="{{ language[0] }}"/></a> {% endfor %}
-{% for topic in topics %}<a href="https://github.com/j12y?tab=repositories&q=topic%3A{{topic[0]}}&type=&language=&sort="><img src="https://img.shields.io/static/v1?label={{topic[0]}}&message={{ topic[1] }}&labelColor=blue"/></a> {% endfor %}
-</p>
-
 <div align="center">
 <table width="75%">
 <tr>
@@ -32,6 +27,10 @@
 </table>
 </div>
 
+<p>Explore more projects: <br/>
+{% for language in languages %}<a href="https://github.com/j12y?tab=repositories&q=language%3A{{language[0]}}&type=&language=&sort="><img src="https://img.shields.io/badge/{{ language[0] }}-{{ language[1] }}-lightgrey?logo={{ language[0] }}&label={{ language[0] }}&labelColor=000000" alt="{{ language[0] }}"/></a> {% endfor %}
+{% for topic in topics %}<a href="https://github.com/j12y?tab=repositories&q=topic%3A{{topic[0]}}&type=&language=&sort="><img src="https://img.shields.io/static/v1?label={{topic[0]}}&message={{ topic[1] }}&labelColor=blue"/></a> {% endfor %}
+</p>
 
 
 </div>
