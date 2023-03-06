@@ -28,12 +28,18 @@ jobs:
           DOLBYIO_ID: ${{ vars.DOLBYIO_ID }}
         run: |
           npm start
-      - name: Check changes
+      - name: Check for changes
         run: |-
-          git diff
+          if git diff --exit-code; then
+            echo "::set-env name=changes_exist::false"
+          else
+            echo "::set-env name=changes_exist::true"
+            git diff
+          fi
       - name: Commit change
+        if: ${{ env.changes_exist }}
         run: |-
-          git config user.name "GitHub Action: ${{ github.workflow }} #${{ github.run_attempt }}"
+          git config user.name "GitHub Action: ${{ github.workflow }} #${{ github.run_number }}"
           git config user.email "<>"
           git add README.md
           git commit -m 'GitHub Action Update'
