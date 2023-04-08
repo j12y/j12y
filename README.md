@@ -104,7 +104,7 @@ Follow me or star this repos to add yourself to the community and receive future
   </div>
   </details>
 
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/j12y?label=Follow&style=social">
+  <a href="https://github.com/j12y?tab=followers"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/j12y?label=Follow&style=social"></a>
   <a href="https://github.com/j12y/j12y/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/j12y/j12y?label=Star&style=social"></a>
 </div>
 
