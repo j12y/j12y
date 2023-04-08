@@ -91,7 +91,7 @@
 # Community
 <div id="influence">
 <p>
-Thanks for your interest in my projects. If you have a question or feedback about any of my projects, use [GitHub Discussions](https://github.com/j12y/j12y/discussions) and let me know what you think.
+Thanks for your interest in my projects. If you have a question or feedback about any of my projects, use <a href="https://github.com/j12y/j12y/discussions">GitHub Discussions</a> and let me know what you think.
     
 Follow me or star this repos to add yourself to the community and receive future updates. 
 </p>
