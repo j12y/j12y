@@ -91,8 +91,9 @@
 # Community
 <div id="influence">
   <p>
-    Thanks for your interest in my projects. 
-    Follow me or star this repos to add yourself to the community.
+    Thanks for your interest in my projects. If you have a question or feedback about any of my projects, use [GitHub Discussions](https://github.com/j12y/j12y/discussions) and let me know what you think.
+    
+    Follow me or star this repos to add yourself to the community and receive future updates. 
   </p>
 
   <details>
@@ -106,6 +107,7 @@
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/j12y?label=Follow&style=social">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/j12y/j12y?label=Star&style=social">
 </div>
+
 
 <div>&nbsp;</div>
 
@@ -124,4 +126,4 @@
 
 
 
-*Last Updated: Fri Apr 07 2023*
+*Last Updated: Sat Apr 08 2023*
