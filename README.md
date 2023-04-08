@@ -90,11 +90,11 @@
 
 # Community
 <div id="influence">
-  <p>
-    Thanks for your interest in my projects. If you have a question or feedback about any of my projects, use [GitHub Discussions](https://github.com/j12y/j12y/discussions) and let me know what you think.
+<p>
+Thanks for your interest in my projects. If you have a question or feedback about any of my projects, use [GitHub Discussions](https://github.com/j12y/j12y/discussions) and let me know what you think.
     
-    Follow me or star this repos to add yourself to the community and receive future updates. 
-  </p>
+Follow me or star this repos to add yourself to the community and receive future updates. 
+</p>
 
   <details>
   <summary>Community (81)</summary>
@@ -120,7 +120,7 @@
     <p>Followers: 62</p>
     <p>Stargazers: 81</p>
     <p>Supporters: 81</p>
-    <p>Unique Views (week): 0</p>
+    <p>Unique Views (week): 1</p>
   </div>
 </details>
 
