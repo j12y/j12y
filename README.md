@@ -68,9 +68,9 @@
 <tr>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://dev.to/@j12y" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a></div>
-  <img src="https://dev.to/social_previews/article/1389527.png"/>
-  <p><b><a href="https://dev.to/j12y/fetching-blog-rss-feeds-for-building-a-github-profile-i31">Fetching Blog RSS Feeds for Building a GitHub Profile</a></b></p>
-  <p>Creating a customized user profile page for GitHub to showcase work projects and make navigation to relevant projects and content easier. This is part...</p>
+  <img src="https://dev.to/social_previews/article/1453329.png"/>
+  <p><b><a href="https://dev.to/j12y/automating-github-profile-updates-with-github-actions-14i3">Automating GitHub Profile Updates with GitHub Actions</a></b></p>
+  <p>Introduced in 2020, the GitHub user profile README allow individuals to give a long-form......</p>
 </td>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://medium.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a></div>
@@ -97,7 +97,7 @@ Follow me or star this repos to add yourself to the community and receive future
 </p>
 
   <details>
-  <summary>Community (83)</summary>
+  <summary>Community (84)</summary>
   <div>&nbsp;</div>
   <div id="supporters">
 
@@ -146,6 +146,8 @@ Follow me or star this repos to add yourself to the community and receive future
 <a href="https://github.com/j12y">j12y</a>
 
 <a href="https://github.com/cardoso">cardoso</a>
+
+<a href="https://github.com/yogananda-muthaiah">yogananda-muthaiah</a>
 
 <a href="https://github.com/achrafsdy">achrafsdy</a>
 
@@ -283,9 +285,9 @@ Follow me or star this repos to add yourself to the community and receive future
   <div>&nbsp;</div>
   <div>
     <p>Repos: 62</p>
-    <p>Followers: 64</p>
-    <p>Stargazers: 83</p>
-    <p>Supporters: 83</p>
-    <p>Unique Views (week): 1</p>
+    <p>Followers: 65</p>
+    <p>Stargazers: 84</p>
+    <p>Supporters: 84</p>
+    <p>Unique Views (week): 2</p>
   </div>
 </details>
