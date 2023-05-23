@@ -97,7 +97,7 @@ Follow me or star this repos to add yourself to the community and receive future
 </p>
 
   <details>
-  <summary>Community (84)</summary>
+  <summary>Community (85)</summary>
   <div>&nbsp;</div>
   <div id="supporters">
 
@@ -146,6 +146,8 @@ Follow me or star this repos to add yourself to the community and receive future
 <a href="https://github.com/j12y">j12y</a>
 
 <a href="https://github.com/cardoso">cardoso</a>
+
+<a href="https://github.com/williammilisic">williammilisic</a>
 
 <a href="https://github.com/yogananda-muthaiah">yogananda-muthaiah</a>
 
@@ -285,9 +287,9 @@ Follow me or star this repos to add yourself to the community and receive future
   <div>&nbsp;</div>
   <div>
     <p>Repos: 63</p>
-    <p>Followers: 65</p>
-    <p>Stargazers: 84</p>
-    <p>Supporters: 84</p>
-    <p>Unique Views (week): 6</p>
+    <p>Followers: 66</p>
+    <p>Stargazers: 85</p>
+    <p>Supporters: 85</p>
+    <p>Unique Views (week): 5</p>
   </div>
 </details>
