@@ -68,9 +68,9 @@
 <tr>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://dev.to/@j12y" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a></div>
-  <img src="https://dev.to/social_previews/article/1453329.png"/>
-  <p><b><a href="https://dev.to/j12y/automating-github-profile-updates-with-github-actions-14i3">Automating GitHub Profile Updates with GitHub Actions</a></b></p>
-  <p>Introduced in 2020, the GitHub user profile README allow individuals to give a long-form......</p>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qggG4F8---/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ytixrpty183f8mz5m4m4.png"/>
+  <p><b><a href="https://dev.to/j12y/personas-and-job-titles-are-you-a-developer-n4k">Personas and Job Titles: Are You a Developer?</a></b></p>
+  <p>What is the persona of a developer? If you are in a role related to developer relations, product......</p>
 </td>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://medium.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a></div>
@@ -296,6 +296,6 @@ Follow me or star this repos to add yourself to the community and receive future
     <p>Followers: 69</p>
     <p>Stargazers: 88</p>
     <p>Supporters: 88</p>
-    <p>Unique Views (week): 3</p>
+    <p>Unique Views (week): 5</p>
   </div>
 </details>
