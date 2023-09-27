@@ -68,9 +68,9 @@
 <tr>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://dev.to/@j12y" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a></div>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qggG4F8---/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ytixrpty183f8mz5m4m4.png"/>
-  <p><b><a href="https://dev.to/j12y/personas-and-job-titles-are-you-a-developer-n4k">Personas and Job Titles: Are You a Developer?</a></b></p>
-  <p>What is the persona of a developer? If you are in a role related to developer relations, product......</p>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Xj8PMXR---/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ngfogrc79mfe5ueo2hqc.png"/>
+  <p><b><a href="https://dev.to/j12y/mystery-customer-theater-3bh6">Mystery Customer Theater</a></b></p>
+  <p>Have you ever been on a sales call with a vendor where they invited a dozen people from the company......</p>
 </td>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://medium.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a></div>
