@@ -68,9 +68,9 @@
 <tr>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://dev.to/@j12y" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a></div>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MuoC_hrx--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/whl9h3tbajzh268t5noq.png"/>
-  <p><b><a href="https://dev.to/j12y/customer-zero-testing-5gii">How-to Run a Customer Zero Testing Program</a></b></p>
-  <p>Some teams have a perverse pride that comes from "we test in production" but that can be a path to a......</p>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--m4reAVaN--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/esk6luzbbkznoyufgjbf.png"/>
+  <p><b><a href="https://dev.to/dolbyio/top-reasons-for-updating-to-the-new-obs-300-release-g6m">Top Reasons for Updating to the New OBS 30.0 Release</a></b></p>
+  <p>Open Broadcast Software (OBS) Studio has released 30.0.0 as a public release candidate with some new......</p>
 </td>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://medium.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a></div>
