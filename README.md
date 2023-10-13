@@ -147,11 +147,11 @@ Follow me or star this repos to add yourself to the community and receive future
 
 <a href="https://github.com/cardoso">cardoso</a>
 
+<a href="https://github.com/TheBoatyMcBoatFace">TheBoatyMcBoatFace</a>
+
 <a href="https://github.com/relaxedtomato">relaxedtomato</a>
 
 <a href="https://github.com/jithinraj">jithinraj</a>
-
-<a href="https://github.com/TheBoatyMcBoatFace">TheBoatyMcBoatFace</a>
 
 <a href="https://github.com/tranthethang">tranthethang</a>
 
