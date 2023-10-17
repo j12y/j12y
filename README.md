@@ -80,9 +80,9 @@
 </td>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://dolby.io/blog/author/jdela/" target="_blank"><img src="https://img.shields.io/badge/Dolby.io-0A0A0A?style=for-the-badge&logo=dolby&logoColor=white"/></a></div>
-  <img src="https://dolby.io/wp-content/uploads/2023/04/dolbyio-scaling-live-events.png"/>
-  <p><b><a href="https://dolby.io/blog/scaling-your-online-live-events-solution-to-host-very-large-audiences/">Scaling Your Online Live Events Solution to Host Very Large Audiences</a></b></p>
-  <p>Considerations and tradeoffs between real-time low latency and high scalability for large audiences when building live event applications and webinars...</p>
+  <img src="https://dolby.io/wp-content/uploads/2023/10/dolbyio-obs-whip.jpg"/>
+  <p><b><a href="https://dolby.io/blog/obs-studio-adds-native-webrtc-streaming-with-whip/">OBS Studio Adds Native WebRTC Streaming with WHIP</a></b></p>
+  <p>The release of Open Broadcasting Software (OBS) Studio 30.0 brings support for WebRTC HTTP Ingest Protocol (WHIP) to enable real-time streaming with l...</p>
 </td>
 </tr>
 </table>
