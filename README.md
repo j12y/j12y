@@ -68,9 +68,9 @@
 <tr>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://dev.to/@j12y" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a></div>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--SfsOhOPT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zffh1b8gli116krys2j5.png"/>
-  <p><b><a href="https://dev.to/j12y/how-to-setup-and-use-python-with-obs-on-a-mac-1055">How-to Setup and Use Python with OBS on a Mac</a></b></p>
-  <p>Open Broadcaster Software (OBS) can be a helpful tool and tailored for different use cases with......</p>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--izhVEUs_--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gnamrztn9i1bzbzrz565.png"/>
+  <p><b><a href="https://dev.to/j12y/know-your-users-location-how-i-voided-my-firefox-warranty-3f8o">Know Your User's Location - How I Voided My Firefox Warranty</a></b></p>
+  <p>I have to admit ignorance that I’ve answered the ${site} wants to know your location question many......</p>
 </td>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://medium.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a></div>
