@@ -68,7 +68,7 @@
 <tr>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://dev.to/@j12y" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a></div>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7kKZRYPR--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ml5foeao60vpkxtgg6q8.png"/>
+  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml5foeao60vpkxtgg6q8.png"/>
   <p><b><a href="https://dev.to/j12y/know-your-users-location-how-i-voided-my-firefox-warranty-3f8o">What Happens When Site Wants to Know Your Location - How I Voided My Firefox Warranty</a></b></p>
   <p>I have to admit ignorance that I’ve answered the ${site} wants to know your location question many......</p>
 </td>
