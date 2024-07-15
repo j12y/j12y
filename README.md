@@ -97,7 +97,7 @@ Follow me or star this repos to add yourself to the community and receive future
 </p>
 
   <details>
-  <summary>Community (88)</summary>
+  <summary>Community (89)</summary>
   <div>&nbsp;</div>
   <div id="supporters">
 
@@ -140,6 +140,8 @@ Follow me or star this repos to add yourself to the community and receive future
 <a href="https://github.com/albertico-gov">albertico-gov</a>
 
 <a href="https://github.com/TvoiKotikB">TvoiKotikB</a>
+
+<a href="https://github.com/rigilzzz">rigilzzz</a>
 
 <a href="https://github.com/Briggs599">Briggs599</a>
 
@@ -294,8 +296,8 @@ Follow me or star this repos to add yourself to the community and receive future
   <div>
     <p>Repos: 72</p>
     <p>Followers: 69</p>
-    <p>Stargazers: 88</p>
-    <p>Supporters: 88</p>
-    <p>Unique Views (week): 0</p>
+    <p>Stargazers: 89</p>
+    <p>Supporters: 89</p>
+    <p>Unique Views (week): 1</p>
   </div>
 </details>
