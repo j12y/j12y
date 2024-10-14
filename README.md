@@ -304,6 +304,6 @@ Follow me or star this repos to add yourself to the community and receive future
     <p>Followers: 72</p>
     <p>Stargazers: 92</p>
     <p>Supporters: 92</p>
-    <p>Unique Views (week): 2</p>
+    <p>Unique Views (week): 1</p>
   </div>
 </details>
