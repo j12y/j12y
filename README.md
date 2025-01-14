@@ -4,11 +4,11 @@
 </div>
 
 <div id="social" align="center">
-  <a href="https://www.linkedin.com/in/jaysondelancey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="@jaysondelancey on LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/jaysondelancey/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="@jaysondelancey on LinkedIn"/></a>
   &nbsp; &nbsp; &nbsp;
   <a href="https://youtube.com/@j12y" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="@j12y on YouTube"/></a>
   &nbsp; &nbsp; &nbsp;
-  <a href="https://twitter.com/jaysondelancey" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="@jaysondelancey on Twitter"/></a>
+  <a href="https://bsky.app/profile/delancey.dev" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" alt="@delancey.dev on Bluesky"/></a>
   &nbsp; &nbsp; &nbsp;
   <a href="https://meta.stackoverflow.com/users/2233231/j12y" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white" alt="@j12y on StackOverflow"/></a>
 </div>
