@@ -1,7 +1,8 @@
-
+<!--
 <div align="center">
   <a href="https://github.com/j12y"><img src="./assets/delancey-github-banner.png"/></a>
 </div>
+-->
 
 <div id="social" align="center">
   <a href="https://www.linkedin.com/in/jaysondelancey/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="@jaysondelancey on LinkedIn"/></a>
